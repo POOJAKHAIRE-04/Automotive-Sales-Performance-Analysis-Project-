@@ -67,6 +67,7 @@ https://github.com/POOJAKHAIRE-04/Automotive-Sales-Performance-Analysis-Project-
 📂 GitHub Repository
 Full project with datasets, Excel files, and visuals available at:
 🔗 GitHub Project Repository 
+https://github.com/POOJAKHAIRE-04/Automotive-Sales-Performance-Analysis-Project-/tree/main
 
 
 👩‍💼 About Me
