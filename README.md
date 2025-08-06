@@ -62,6 +62,7 @@ Dashboard: Created a professional, visual Excel dashboard for sales performance 
 📷 Project Screenshots
 Explore visual outputs and dashboards here:
 🔗 📁 Screenshot Folder
+https://github.com/POOJAKHAIRE-04/Automotive-Sales-Performance-Analysis-Project-/tree/main/Screenshot
 
 📂 GitHub Repository
 Full project with datasets, Excel files, and visuals available at:
