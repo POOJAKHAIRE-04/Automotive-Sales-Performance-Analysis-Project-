@@ -65,11 +65,13 @@ Explore visual outputs and dashboards here:
 
 📂 GitHub Repository
 Full project with datasets, Excel files, and visuals available at:
-🔗 GitHub Project Repository
+🔗 GitHub Project Repository 
+
 
 👩‍💼 About Me
 I’m Pooja Khaire, an MBA Business Analytics student passionate about data-driven problem solving and business insights.
 📍 Connect with me on LinkedIn
+https://www.linkedin.com/in/pooja-khaire-138361324/
 
 ✅ Key Insights
 Identified top factors that impact customer hesitation.
